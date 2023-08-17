@@ -1,0 +1,24 @@
+/* CSS Document */
+.main{
+	width:95%;
+	height:auto;
+	margin:auto;
+	padding:0;
+	border:1px solid black;
+	box-sizing:border-box;	
+}
+.main td{
+	border:1px solid black;
+	box-sizing:border-box;	
+}
+
+.left{
+	width:20%;
+	border:1px solid black;
+	box-sizing:border-box;	
+}
+.right td{
+	width:80%;
+	border:1px solid black;
+	box-sizing:border-box;	
+}
